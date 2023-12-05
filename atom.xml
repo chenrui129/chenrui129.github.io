@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chenrui129.github.io</id>
+    <title>残枝零落</title>
+    <updated>2023-12-05T15:50:19.150Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chenrui129.github.io"/>
+    <link rel="self" href="https://chenrui129.github.io/atom.xml"/>
+    <subtitle>Do you like me?</subtitle>
+    <logo>https://chenrui129.github.io/images/avatar.png</logo>
+    <icon>https://chenrui129.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 残枝零落</rights>
+    <entry>
+        <title type="html"><![CDATA[你们好]]></title>
+        <id>https://chenrui129.github.io/post/ni-men-hao/</id>
+        <link href="https://chenrui129.github.io/post/ni-men-hao/">
+        </link>
+        <updated>2023-12-05T15:25:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>你们好撒大大的阿萨啊<br>
+dsaa ds</p>
+<p>dwa 大苏打</p>
+<p>但我阿萨大大</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>你们好撒大大的阿萨啊<br>
+dsaa ds</p>
+<p>dwa 大苏打</p>
+<p>但我阿萨大大</p>
+<!-- more -->
+]]></content>
+    </entry>
+</feed>
